@@ -1,5 +1,5 @@
 const config = {
-    term: '202601',
+    term: '202602',
     dataVersion: 84
 };
 
